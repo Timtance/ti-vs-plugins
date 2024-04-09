@@ -3,7 +3,7 @@
 import * as vscode from 'vscode';
 import * as path from 'path';
 
-const version = '0.1.4';
+const version = '0.1.5';
 export function activate(context: vscode.ExtensionContext) {
 	// console.log('Congratulations, your extension "test" is now active in the web extension host!');
 	let disposable = vscode.commands.registerCommand('ti-vs-plugins.helloWorld', () => {
