@@ -3,7 +3,7 @@
   "displayName": "ti-vs-plugins",
   "publisher": "ti-vs-plugins",
   "description": "the plugin for vscode, webview and webpages",
-  "version": "0.1.5",
+  "version": "0.1.8",
   "engines": {
     "vscode": "^1.88.0"
   },
